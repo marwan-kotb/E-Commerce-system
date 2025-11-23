@@ -350,7 +350,7 @@ A simple router guard checks `localStorage.token`:
 
 ---
 
-### 6.3. Dashboard Home
+### Dashboard Home
 
 **Route:** `/`
 
@@ -457,7 +457,7 @@ Contains three main sections:
    - Place order.
    - Check Orders page and Dashboard stats.
 
-## Demo API && front end
+## Demo API & front end
 ![1](img/1.png)
 ![2](img/2.png)
 ![3](img/3.png)
